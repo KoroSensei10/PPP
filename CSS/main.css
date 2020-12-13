@@ -12,13 +12,32 @@ html {
 }
 
 /*
- * Titres -----------------------------------------------------------
+ * Textes -----------------------------------------------------------
  */
+
+ html{
+    font-size: 1em;
+ }
 
 h1{
     color: white;
 }
 
+.textColor{
+    color: white;
+}
+
+a{
+    font-size: 1.2rem;
+}
+
+    /*Page FAQ */
+
+ .faqtitle{
+    color: white;
+    font-weight: bolder;
+    font-size: 3rem;
+}
 /*
  * Menu nav ---------------------------------------------------------
  */
@@ -54,10 +73,6 @@ h1{
     border-radius: 5px;
 }
 
-.textColor{
-    color: white;
-}
-
 /*
  * Footer ------------------------------------------------------------
  */
@@ -66,12 +81,4 @@ h1{
     color: white;
 }
 
-/*
- * Page FAQ ------------------------------------------------------------
- */
 
-.faqtitle{
-    color: white;
-    font-weight: bolder;
-    font-size: 03rem;
-}
