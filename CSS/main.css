@@ -17,10 +17,14 @@ html {
 
  html{
     font-size: 1em;
+    color: white;
  }
 
  h1{
     color: white;
+    font-weight: bolder;
+    font-size: 3rem;
+    margin-top: 1rem;
 }
 
  .textColor{
@@ -31,13 +35,6 @@ html {
     font-size: 1.2rem;
 }
 
-    /*Page FAQ */
-
- .faqtitle{
-    color: white;
-    font-weight: bolder;
-    font-size: 3rem;
-}
 /*
  * Menu nav ---------------------------------------------------------
  */
