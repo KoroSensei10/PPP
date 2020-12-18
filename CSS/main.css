@@ -31,17 +31,48 @@ html {
  .textColor{
     color: white;
 }
-
+ 
  a{
+    font-size: 1.2rem;
+    color: rgb(187, 0, 0);
+}
+
+ a:hover{
+     color: black
+ }
+
+
+/*
+ * Main -------------------------------------------------------------
+ */
+
+.main{
+    color: black;
+    background-color: rgb(6, 178, 190);
+    border-radius: 5px;
     font-size: 1.2rem;
 }
 
+.container{
+    background-color: rgba(255, 255, 255, 0.1);
+}
 
+.scare{
+    list-style: none;
+    list-style-type:square;
+}
+/*
+ * Footer ------------------------------------------------------------
+ */
+
+.mainFooter{
+    color: white;
+}
 /*
  * Menu nav ---------------------------------------------------------
  */
 
-.nav-link{
+ .nav-link{
     color:  rgb(172, 28, 2);
     text-decoration: none;
     background: linear-gradient(to top, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 10%, transparent 10.01%) no-repeat left bottom / 0 100%;
@@ -62,27 +93,6 @@ html {
     font-weight: bolder;
 }
 
-/*
- * Main -------------------------------------------------------------
- */
-
-.main{
-    color: black;
-    background-color: rgb(6, 178, 190);
-    border-radius: 5px;
-    font-size: 1.2rem;
-}
-
-.container-md{
-    background-color: rgba(255, 255, 255, 0.1);
-}
-/*
- * Footer ------------------------------------------------------------
- */
-
-.mainFooter{
-    color: white;
-}
 
 
 
