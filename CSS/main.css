@@ -73,7 +73,7 @@ html {
  */
 
  .nav-link{
-    color:  rgb(172, 28, 2);
+    color:  rgb(2, 110, 172);
     text-decoration: none;
     background: linear-gradient(to top, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 10%, transparent 10.01%) no-repeat left bottom / 0 100%;
     transition: background-size .5s;
