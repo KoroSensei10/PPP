@@ -34,7 +34,8 @@ html {
  
  a{
     font-size: 1.2rem;
-    color: rgb(187, 0, 0);
+    color: rgb(121, 212, 255);
+    text-decoration: underline;
 }
 
  a:hover{
