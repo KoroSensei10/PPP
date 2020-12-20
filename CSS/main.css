@@ -102,6 +102,10 @@ html {
     font-weight: bolder;
 }
 
+.navbar-brand{
+    text-decoration: none;
+}
+
 
 
 
